@@ -7,7 +7,8 @@ O GLPI é um incrível software de gerenciamento de serviços baseado em tecnolo
 ## Estrutura de Entidades da JRCOMPUT no GLPI'.'
 A estrutura que iremos utilizar é a de Atendimento não Compartilhado, onde todos os usuários da entidade raiz, com o perfil de Abertura de Chamados, vão acessar no GLPI.
 
-Entidade raiz: JRCOMPUT
-Entidades filha 1: TI (Tecnologia da Informação)
-Entidades filha 1: RH (Recursos Humanos)
-Entidades filha 1: ADM (Administração)
+- Entidade raiz: **JRCOMPUT**
+- Entidades filha 1: **TI** (Tecnologia da Informação)
+- Entidades filha 1: **RH** (Recursos Humanos)
+- Entidades filha 1: **ADM** (Administração)
+
